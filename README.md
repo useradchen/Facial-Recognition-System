@@ -14,6 +14,7 @@ This project proposes a **facial recognition control system** using **edge and f
 - **Coral Dev Board:** Handles local computation and model inference.
 <img src="pic/Coral%20Dev%20Board.jpg" alt="Coral Dev Board" width="300"/>
 - **Camera:** Captures facial features for analysis.
+<img src="pic/camera.jpg" alt="camera.jpg" width="200"/>
 
 ## 🧠 Approach
 
