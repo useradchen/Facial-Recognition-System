@@ -1,5 +1,4 @@
-# Facial-Recognition-System 
-## Smart Facial Recognition Access Control System
+# Smart Facial Recognition Access Control System
 
 ## 📌 Project Overview
 
@@ -56,7 +55,10 @@ The facial recognition pipeline consists of the following steps:
 - Create a door/cabinet lock system that only opens for authorized individuals.
 - Allow for future expansion by scanning and adding new authorized faces (e.g., doctors, family members).
 
----
+## 📚 Reference
+
+This project references and fine-tunes models from the excellent [facenet-pytorch](https://github.com/timesler/facenet-pytorch/tree/master/models) repository by [@timesler](https://github.com/timesler).  
+We sincerely thank the author for sharing this work under the MIT License.
 
 ## 👥 Team Members
 
