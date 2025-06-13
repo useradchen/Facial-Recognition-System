@@ -45,6 +45,9 @@ The facial recognition pipeline consists of the following steps:
   - Person B: 90 images  
   - Total: 390 valid facial images
 
+## Current Status
+Due to issues with model conversion, we are currently unable to run the model on the Coral Dev Board. Our team is actively working on resolving this issue.
+
 ## ➕ Future Work: Dynamic Whitelist Updates
 
 - Press a button to trigger video recording.
