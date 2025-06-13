@@ -1,3 +1,6 @@
+![Project Status](https://img.shields.io/badge/Status-In_Progress-yellow)
+![Python Version](https://img.shields.io/badge/Python-3.12-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 # Smart Facial Recognition Access Control System
 
 ## 📌 Project Overview
