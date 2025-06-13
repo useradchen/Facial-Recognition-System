@@ -70,7 +70,7 @@ The facial recognition pipeline consists of the following steps:
 
 ## 👀 Demo
 
-- [!pic]()
+- [execution demo](https://youtu.be/IBK3oxeL9nA)
 
 
 ## 📚 Reference
