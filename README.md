@@ -13,11 +13,15 @@ This project proposes a **facial recognition control system** using **edge and f
 2. **Privacy:** Prevent unauthorized access to private spaces (like bedrooms) by detecting and denying entry to uninvited guests.
 
 ## 🔧 Devices Used
+| Device            | Description                                | Image                                          |
+|-------------------|--------------------------------------------|------------------------------------------------|
+| **Coral Dev Board** | Handles local computation and model inference. | <img src="pic/Coral%20Dev%20Board.jpg" width="150"/> |
+| **Camera**          | Captures facial features for analysis.       | <img src="pic/camera.jpg" width="100"/>              |
 
-- **Coral Dev Board:** Handles local computation and model inference.
-<img src="pic/Coral%20Dev%20Board.jpg" alt="Coral Dev Board" width="300"/>
-- **Camera:** Captures facial features for analysis.
-<img src="pic/camera.jpg" alt="camera.jpg" width="200"/>
+## System Requirements
+
+- **Operating System:** Windows 11  
+- **Python Version:** Python 3.12  
 
 ## 🧠 Approach
 
